@@ -23,7 +23,7 @@
 					<h3>
 	We pride ourselves on listening to our customers and truly understanding their challenges. We want to help you achieve your goals and share your ideas with the world. No matter what level of technology is required, we have the answer.
 					</h3>
-					<h3>
+					<h3 style=" padding-bottom:52px;">
 	Our management team has over 20 yrs experience in providing infrastructure solutions and technology to successful individuals, entrepreneurs and small to medium-sized businesses around the globe
 					</h3>
 					<br>

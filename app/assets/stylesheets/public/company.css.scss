@@ -8,8 +8,17 @@ $white: white;
 $brownish: #dcd1b5;
 
 .company-inner-holder {
-  background-color: $brownish;
+  background-image: url(image/company/company-bg.jpg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  color:#fff;
 }
+
+.company-inner-holder h1{
+  padding-top:52px;
+}
+
 
 .profile-list {
   list-style: none;

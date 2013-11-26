@@ -1,5 +1,5 @@
 .partners-holder {
-  background-image: url(image/partners/partners-bg.png);
+  background-image: url(image/partners/partner-bg.jpg);
   background-size: cover;
 }
 
@@ -19,81 +19,119 @@
 }
 
 #accross {
-  background-image: url(image/partners/33-accross-gray.png);
+  background-image: url(image/partners/client1.png);
   display: inline-block;
   -webkit-transition: background-image 0.5s;
   -moz-transition: background-image 0.5s;
   -o-transition: background-image 0.5s;
   transition: background-image 0.5s;
+  background-repeat: no-repeat;
+  height: 50px;
 }
 
 #accross:hover {
-  background-image: url(image/partners/33-accross.png);
+  background-image: url(image/partners/client1-colored.png);
 }
 
 #chango {
-  background-image: url(image/partners/chango-gray.png);
+  background-image: url(image/partners/client2.png);
   display: inline-block;
   -webkit-transition: background-image 0.5s;
   -moz-transition: background-image 0.5s;
   -o-transition: background-image 0.5s;
   transition: background-image 0.5s;
+  background-repeat: no-repeat;
+  height: 63px;
 }
 
 #chango:hover {
-  background-image: url(image/partners/chango.png);
+  background-image: url(image/partners/client2-colored.png);
 }
 
 #collective {
-  background-image: url(image/partners/collective-gray.png);
+  background-image: url(image/partners/client3.png);
   display: inline-block;
   -webkit-transition: background-image 0.5s;
   -moz-transition: background-image 0.5s;
   -o-transition: background-image 0.5s;
   transition: background-image 0.5s;
+  background-repeat: no-repeat;
+  height: 63px;
 }
 
 #collective:hover {
-  background-image: url(image/partners/collective.png);
+  background-image: url(image/partners/client3-colored.png);
 }
 
 #beyond {
-  background-image: url(image/partners/beyond-gray.png);
+  background-image: url(image/partners/client6.png);
   display: inline-block;
   -webkit-transition: background-image 0.5s;
   -moz-transition: background-image 0.5s;
   -o-transition: background-image 0.5s;
   transition: background-image 0.5s;
+  background-repeat:no-repeat;
 }
 
 #beyond:hover {
-  background-image: url(image/partners/beyond.png);
+  background-image: url(image/partners/client6-colored.png);
 }
 
 #coolit {
-  background-image: url(image/partners/cool-it-gray.png);
+  background-image: url(image/partners/client4.png);
   display: inline-block;
   -webkit-transition: background-image 0.5s;
   -moz-transition: background-image 0.5s;
   -o-transition: background-image 0.5s;
   transition: background-image 0.5s;
+  background-repeat:no-repeat;
 }
 
 #coolit:hover {
-  background-image: url(image/partners/cool-it.png);
+  background-image: url(image/partners/client4-colored.png);
 }
 
 #babble {
-  background-image: url(image/partners/babble-gray.png);
+  background-image: url(image/partners/client5.png);
   display: inline-block;
   -webkit-transition: background-image 0.5s;
   -moz-transition: background-image 0.5s;
   -o-transition: background-image 0.5s;
   transition: background-image 0.5s;
+    background-repeat:no-repeat;
+    height: 63px;
 }
 
 #babble:hover {
-  background-image: url(image/partners/babble.png);
+  background-image: url(image/partners/client5-colored.png);
+}
+
+#client7 {
+  background-image: url(image/partners/client7.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+    background-repeat:no-repeat;
+}
+
+#client7:hover {
+  background-image: url(image/partners/client7-colored.png);
+}
+
+#client8 {
+  background-image: url(image/partners/client8.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+    background-repeat:no-repeat;
+}
+
+#client8:hover {
+  background-image: url(image/partners/client8-colored.png);
 }
 
 #invest-in {
