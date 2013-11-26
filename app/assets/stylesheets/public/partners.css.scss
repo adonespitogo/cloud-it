@@ -1,0 +1,101 @@
+.partners-holder {
+  background-image: url(image/partners/partners-bg.png);
+  background-size: cover;
+}
+
+.row-partners {
+  margin-top: 70px;
+}
+
+.partners-inner-holder h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #222222;
+  text-shadow: 2px 2px 2px #dddddd;
+}
+
+#accross img, #chango img, #collective img, #beyond img, #coolit img, #babble img {
+  opacity: 0;
+}
+
+#accross {
+  background-image: url(image/partners/33-accross-gray.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+}
+
+#accross:hover {
+  background-image: url(image/partners/33-accross.png);
+}
+
+#chango {
+  background-image: url(image/partners/chango-gray.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+}
+
+#chango:hover {
+  background-image: url(image/partners/chango.png);
+}
+
+#collective {
+  background-image: url(image/partners/collective-gray.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+}
+
+#collective:hover {
+  background-image: url(image/partners/collective.png);
+}
+
+#beyond {
+  background-image: url(image/partners/beyond-gray.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+}
+
+#beyond:hover {
+  background-image: url(image/partners/beyond.png);
+}
+
+#coolit {
+  background-image: url(image/partners/cool-it-gray.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+}
+
+#coolit:hover {
+  background-image: url(image/partners/cool-it.png);
+}
+
+#babble {
+  background-image: url(image/partners/babble-gray.png);
+  display: inline-block;
+  -webkit-transition: background-image 0.5s;
+  -moz-transition: background-image 0.5s;
+  -o-transition: background-image 0.5s;
+  transition: background-image 0.5s;
+}
+
+#babble:hover {
+  background-image: url(image/partners/babble.png);
+}
+
+#invest-in {
+  font-weight: 200;
+}

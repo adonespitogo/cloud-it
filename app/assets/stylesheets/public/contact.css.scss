@@ -1,0 +1,33 @@
+.contact-content-holder {
+  background-image: url(image/contact/contact-bg.jpg);
+  background-size: 100% auto;
+  background-repeat: no-reapet;
+  padding: 70px 0px;
+}
+
+.contact-content-holder h1 {
+  font-size: 40px;
+}
+
+.contact-content-holder p {
+  font-size: 17px;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.contact-list li {
+  padding: 0px;
+  margin: 20px 0px;
+}
+
+.contact-list li a {
+  text-decoration: none !important;
+}
+
+.contact-list li img {
+  margin-right: 20px;
+}
