@@ -35,7 +35,7 @@
 			<div class='col-lg-6'>
 				<ul class='contact-list'>
 					<li>
-						<a href="mailto:info@inoviacapital.com">
+						<a href="mailto:contactus@clouditcanada.com">
 							<img src="{{ URL::to('img/contact/email-white.png') }}">
 							<strong class='color-orange'>
 								contactus@clouditcanada.com
