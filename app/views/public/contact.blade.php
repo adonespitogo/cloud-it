@@ -26,7 +26,7 @@
 			<div class='col-lg-6'>
 				<br>
 				<p>
-					Cloud I.T Canada, Inc.
+					Cloud I.T. Canada, Inc.
 				</p>
 				<br>
 			</div>
