@@ -2,7 +2,7 @@
 	<div class='container color-white'>
 		<div class='row row-home'>
 			<div class='col-lg-12'>
-				<h1 class='tagline color-orange'>ELASTIC HYBRID <span class='color-white'>CLOUD</span></h1>
+				<h1 class='tagline color-orange'>ELASTIC PRIVATE <span class='color-white'>CLOUD</span></h1>
 			</div>
 		</div>
 		<div class='row row-home'>
