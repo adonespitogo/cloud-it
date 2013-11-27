@@ -26,7 +26,7 @@
 			<div class='col-lg-6'>
 				<br>
 				<p>
-					Cloud I.T Canada, Inc.
+					Cloud I.T. Canada, Inc.
 				</p>
 				<br>
 			</div>
@@ -35,17 +35,17 @@
 			<div class='col-lg-6'>
 				<ul class='contact-list'>
 					<li>
-						<a href="mailto:info@inoviacapital.com">
+						<a href="mailto:contactus@clouditcanada.com">
 							<img src="{{ URL::to('img/contact/email-white.png') }}">
 							<strong class='color-orange'>
-								info@inoviacapital.com
+								contactus@clouditcanada.com
 							</strong>
 						</a>
 					</li>
 					<li>
 						<img src="{{ URL::to('img/contact/phone-white.png') }}">
 						<strong>
-							(514) 982-2251
+							1-855-200-0320
 						</strong>
 					</li>
 					<li>
