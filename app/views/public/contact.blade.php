@@ -52,7 +52,7 @@
 						<a href="https://twitter.com/CloudIT_Canada">
 							<img src="{{ URL::to('img/contact/twitter-white.png') }}">
 							<strong class='color-orange'>
-								@inovia
+								@CloudIT_Canada
 							</strong>
 						</a>
 					</li>
