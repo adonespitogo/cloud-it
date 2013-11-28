@@ -17,13 +17,13 @@
 			<div class='row'>
 				<div class='col-lg-12'>
 					<h1 class='page-h'>MEET THE TEAM</h1>
-					<p style="font-weight: 200">
+					<p>
 						We are a group of industry leading, IT professionals who are passionate about helping our customers expand their ideas into the cloud.
 					</p>
-					<p style="font-weight: 200">
+					<p>
 	We pride ourselves on listening to our customers and truly understanding their challenges. We want to help you achieve your goals and share your ideas with the world. No matter what level of technology is required, we have the answer.
 					</p>
-					<p style=" padding-bottom:52px; font-weight: 200">
+					<p>
 	Our management team has over 20 years experience in providing infrastructure solutions and technology to successful individuals, entrepreneurs and small to medium-sized businesses around the globe.
 					</p>
 					<br>
